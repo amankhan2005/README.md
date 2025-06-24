@@ -14,6 +14,6 @@ I'm a passionate MERN Stack Developer from India 🇮🇳
 > Role-based MERN Stack web app with admin & expert portals, blog system, and JWT authentication.
 
 ## 📫 How to reach me:
-- 📧 amankhan995k@gmail.com
+- 📧 amankhan099k@gmail.com
 - 🌐 [LinkedIn](https://linkedin.com/in/aman-khan-54a093230)
 - 💻 [GitHub](https://github.com/amankhan2005)
